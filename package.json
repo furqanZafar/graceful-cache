@@ -1,0 +1,13 @@
+{
+  "name": "graceful-cache",
+  "version": "2.0.0",
+  "description": "Graceful cache for node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Furqan Zafar",
+  "dependencies": {
+    "prelude-ls": "^1.1.2"
+  }
+}
